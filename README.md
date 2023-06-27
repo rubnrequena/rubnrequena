@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @rubnrequena
 - 👀 I’m interested in solve real problems
-- 🌱 I’m currently learning Golang
-- 💞️ I’m looking to collaborate on OpenSource projects
+- 🌱 I want to learn  Rust
 - 📫 How to reach me rubnrequena@gmail.com
